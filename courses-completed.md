@@ -1,5 +1,6 @@
 ## List of courses I have completed:
 
+- [Introduction to OKRs](https://productsparks.teachable.com/p/introductory-course-on-okrs) (January 2022)
 - [Visual Studio 2019: Debugging](https://app.pluralsight.com/library/courses/debugging-visual-studio-2019) (May 2021)
 - [Microsoft Dynamics 365: Getting Started](https://app.pluralsight.com/library/courses/microsoft-dynamics-365-getting-started) (Feb 2021)
 - [Demonstrating the Business Value of Power Apps](https://app.pluralsight.com/library/courses/demonstrating-business-value-power-apps) (Feb 2021)
@@ -19,7 +20,7 @@
 - [Deploying .NET Applications with Octopus Deploy](https://app.pluralsight.com/library/courses/octopus-deploy-dot-net-applications) (July 2020)
 - [Dependency Injection in ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection) (July 2020)
 - [Architecting Applications for the Real World in .NET](https://app.pluralsight.com/library/courses/architecting-applications-dotnet) (July 2020)
-- [RxJS in Angular: Reactive Development]() (https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development) (July 2020)
+- [RxJS in Angular: Reactive Development](https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development) (July 2020)
 - [ASP.NET Core Fundamentals](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals) (May 2020)
 - [Introduction to SQL Server](https://app.pluralsight.com/library/courses/intro-sql-server) (May 2020)
 - [Building Applications with React and Redux](https://app.pluralsight.com/library/courses/react-redux-react-router-es6) (April 2020)
@@ -30,7 +31,7 @@
 - [Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice) (Oct 2019)
 - [Defensive Coding in C#](https://app.pluralsight.com/library/courses/defensive-coding-csharp) (Oct 2019)
 - [SOLID Principles of Object Oriented Design](https://app.pluralsight.com/library/courses/principles-oo-design) (Oct 2019)
-- [Clean Code: Writing Code for Humans]https://app.pluralsight.com/library/courses/writing-clean-code-humans) (Sept 2019)
+- [Clean Code: Writing Code for Humans](https://app.pluralsight.com/library/courses/writing-clean-code-humans) (Sept 2019)
 - [Object-Oriented Programming Fundamentals in C#](https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp) (Sept 2019)
 - [Introduction to SQL](https://app.pluralsight.com/library/courses/introduction-to-sql) (July 2019)
 - [C# Fundamentals](https://app.pluralsight.com/library/courses/csharp-fundamentals-dev/table-of-contents) (June 2019)
